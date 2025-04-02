@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/rickyricon/Desktop/C++ Desde Cero/Curso cpp OmegaUp/output/hola-mundo'
+relocations:     []
+...
